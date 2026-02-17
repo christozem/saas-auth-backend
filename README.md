@@ -1,5 +1,11 @@
 # saas-auth-backend
 
+## Day 1 Progress
+- Project initialized
+- FastAPI server running
+- GitHub repo connected
+- Environment setup complete
+
 
 Production-style authentication backend using FastAPI.
 
